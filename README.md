@@ -15,6 +15,9 @@ Whether it's through Python, MATLAB, HTML, CSS, JS, or any other tool in my exte
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgholamian&show_icons=true&theme=tokyonight)
 
-
-
+<img src='https://img.shields.io/badge/-Machine%20Learning-blue'> <img src='https://img.shields.io/badge/-Deep%20Learning-yellowgreen'> <img src='https://img.shields.io/badge/-Data%20Mining-yellow'> <img src='https://img.shields.io/badge/-Federated%20Learning-success'> <img src='https://img.shields.io/badge/-Statistical%20Methods-red'> <img src='https://img.shields.io/badge/-Expert%20Systems-lightgrey'> <img src='https://img.shields.io/badge/-Computational%20Intelligence-orange'> <img src='https://img.shields.io/badge/-Natural%20Language%20Processing-brightgreen'> <img src='https://img.shields.io/badge/-Sensors-green'> <img src='https://img.shields.io/badge/-Image%20Processing-blueviolet'>
+<img src='https://img.shields.io/badge/-HTML-orange'>
+<img src='https://img.shields.io/badge/-JavaScript-yellow'>
+<img src='https://img.shields.io/badge/-CSS-blue'>
+<img src='https://img.shields.io/badge/-Git-lightgrey'>
 
