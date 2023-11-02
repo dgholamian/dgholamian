@@ -20,4 +20,19 @@ Whether it's through Python, MATLAB, HTML, CSS, JS, or any other tool in my exte
 <img src='https://img.shields.io/badge/-JavaScript-yellow'>
 <img src='https://img.shields.io/badge/-CSS-blue'>
 <img src='https://img.shields.io/badge/-Git-lightgrey'>
+<img src='https://img.shields.io/badge/-Python-blue'>
+<img src='https://img.shields.io/badge/-NumPy-blueviolet'>
+<img src='https://img.shields.io/badge/-Pandas-green'>
+<img src='https://img.shields.io/badge/-Matplotlib-orange'>
+<img src='https://img.shields.io/badge/-Seaborn-red'>
+<img src='https://img.shields.io/badge/-TensorFlow-yellow'>
+<img src='https://img.shields.io/badge/-Keras-yellowgreen'>
+<img src='https://img.shields.io/badge/-PyTorch-critical'>
+<img src='https://img.shields.io/badge/-SciPy-9cf'>
+<img src='https://img.shields.io/badge/-Statsmodels-important'>
+<img src='https://img.shields.io/badge/-Jupyter-brightgreen'>
+<img src='https://img.shields.io/badge/-SQLAlchemy-blue'>
+<img src='https://img.shields.io/badge/-NLTK-9cf'>
+<img src='https://img.shields.io/badge/-BeautifulSoup-orange'>
+<img src='https://img.shields.io/badge/-Dash-red'>
 
