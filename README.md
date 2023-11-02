@@ -13,6 +13,8 @@ When I'm not buried in research papers or coding away, I'm likely to be found im
 Whether it's through Python, MATLAB, HTML, CSS, JS, or any other tool in my extensive software arsenal, I'm always crafting something new.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgholamian&show_icons=true&theme=dark)
+
 
 
 
