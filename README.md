@@ -1,16 +1,18 @@
+
+![Green and Yellow Hexagonal Geometric Data Statistic Presentation (2)](https://github.com/dgholamian/dgholamian/assets/43496431/d2d660f2-88ef-4817-9bed-119481675650)
+
+
 ### Hi there 👋
 
-<!--
-**dgholamian/dgholamian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Davoud! I'm currently delving into the world of Data Science as a Ph.D. student at the University of Western Ontario, where I'm exploring the frontiers of Federated Learning, Natural Language Processing, and other exciting fields. 
 
-Here are some ideas to get you started:
+With a rich background in Data Analytics and Machine Learning, I've used my expertise to predict customer churn in the banking industry and to enhance healthcare systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not buried in research papers or coding away, I'm likely to be found immersing myself in the latest courses or brushing up on my language skills, being fluent in both English and Persian. 
+
+Whether it's through Python, MATLAB, HTML, CSS, JS, or any other tool in my extensive software arsenal, I'm always crafting something new.
+
+
+
+
+
