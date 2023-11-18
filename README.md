@@ -1,5 +1,4 @@
 
-![Green and Yellow Hexagonal Geometric Data Statistic Presentation (2)](https://github.com/dgholamian/dgholamian/assets/43496431/d2d660f2-88ef-4817-9bed-119481675650)
 
 
 ### Hi there 👋
