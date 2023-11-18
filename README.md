@@ -1,3 +1,4 @@
+![Green and Yellow Hexagonal Geometric Data Statistic Presentation (2)](https://github.com/dgholamian/dgholamian/assets/43496431/d2d660f2-88ef-4817-9bed-119481675650)
 
 
 
@@ -12,7 +13,7 @@ When I'm not buried in research papers or coding away, I'm likely to be found im
 Whether it's through Python, MATLAB, HTML, CSS, JS, or any other tool in my extensive software arsenal, I'm always crafting something new.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgholamian&show_icons=true&theme=tokyonight)
+
 
 <img src='https://img.shields.io/badge/-Machine%20Learning-blue'> <img src='https://img.shields.io/badge/-Deep%20Learning-yellowgreen'> <img src='https://img.shields.io/badge/-Data%20Mining-yellow'> <img src='https://img.shields.io/badge/-Federated%20Learning-success'> <img src='https://img.shields.io/badge/-Statistical%20Methods-red'> <img src='https://img.shields.io/badge/-Expert%20Systems-lightgrey'> <img src='https://img.shields.io/badge/-Computational%20Intelligence-orange'> <img src='https://img.shields.io/badge/-Natural%20Language%20Processing-brightgreen'> <img src='https://img.shields.io/badge/-Sensors-green'> <img src='https://img.shields.io/badge/-Image%20Processing-blueviolet'>
 <img src='https://img.shields.io/badge/-HTML-orange'>
