@@ -1,6 +1,4 @@
-![Green and Yellow Hexagonal Geometric Data Statistic Presentation (2)](https://github.com/dgholamian/dgholamian/assets/43496431/d2d660f2-88ef-4817-9bed-119481675650)
-
-
+![wordcloud (1)](https://github.com/user-attachments/assets/32b0f04d-8c3b-4646-b542-fa1642d55e23)
 
 ### Hi there 👋
 
